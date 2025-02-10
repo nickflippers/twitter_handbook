@@ -20,6 +20,7 @@ If you've been on Twitter for an `x` amount of time, you've probably noticed a p
 13. She `verbing` on it till I `noun`
 14. Ever since I was a little `var` I knew I wanted to `beOrDoSomething`
 15. [picture of snowy location] Imagine bleeding out here
-16. I asked my `var` what it would take to `doOrMakeSomething` today. I will never forget `pronounOfVar` answer. "We can't, we don't know how" 
+16. I asked my `var` what it would take to `doOrMakeSomething` today. I will never forget `pronounOfVar` answer. "We can't, we don't know how"
+17. You're laughing? `var` is `something` and you're laughing?
 
 ...
