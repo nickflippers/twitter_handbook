@@ -19,5 +19,6 @@ If you've been on Twitter for an `x` amount of time, you've probably noticed a p
 12. *landshark ayahasca copypasta*
 13. She `verbing` on it till I `noun`
 14. Ever since I was a little `var` I knew I wanted to `beOrDoSomething`
+15. [picture of snowy location] Imagine bleeding out here
 
 ...
