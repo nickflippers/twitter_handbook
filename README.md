@@ -22,5 +22,8 @@ If you've been on Twitter for an `x` amount of time, you've probably noticed a p
 15. [picture of snowy location] Imagine bleeding out here
 16. I asked my `var` what it would take to `doOrMakeSomething` today. I will never forget `pronounOfVar` answer. "We can't, we don't know how"
 17. You're laughing? `var` is `something` and you're laughing?
+18. Might just fuck around and `doSomething`
+19. Sex is cool, but have you ever `doneSomething`
+        
 
 ...
